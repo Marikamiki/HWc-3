@@ -1,0 +1,15 @@
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/bin/Debug/net7.0/ex002
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/bin/Debug/net7.0/ex002.deps.json
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/bin/Debug/net7.0/ex002.runtimeconfig.json
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/bin/Debug/net7.0/ex002.dll
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/bin/Debug/net7.0/ex002.pdb
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.csproj.AssemblyReference.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.AssemblyInfoInputs.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.AssemblyInfo.cs
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.csproj.CoreCompileInputs.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.dll
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/refint/ex002.dll
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.pdb
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ex002.genruntimeconfig.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#3/ex002/obj/Debug/net7.0/ref/ex002.dll
